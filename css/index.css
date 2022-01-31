@@ -1,0 +1,19 @@
+body {
+    font-size:1em;
+    font-family:Arial;
+    background:rgb(255, 255, 255);
+  }
+  
+#hellomessage {
+    font-weight:bold;
+  }
+
+td img {
+    width: 150px;
+    height: 200px;
+}
+
+h1 {  
+     color: rgb(9, 67, 133);  
+  } 
+  
